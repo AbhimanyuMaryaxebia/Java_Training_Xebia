@@ -13,6 +13,7 @@ interface testInterface1 extends testInterface
 
 class Prac4 implements testInterface1 {
 
+
 public void show()
 {
 
